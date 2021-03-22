@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @IcedEspresso
-- 👀 I’m interested in learning VR Game Development as well as constructing various other programs on the side
-- 🌱 I’m currently learning C#, Java, HTML/CSS
-- 💞️ Not currently prepared for collaborations, :)
-- 📫 You can reach me at timothywu@pandalounge.ca
+@IcedEspresso here!
+
+I’m currently learning VR Game Development in Unity and am also working on various other programs with a friend. 
+Hopefully I'll be able to eventually gain enough experience to be able to share much more in this README!
